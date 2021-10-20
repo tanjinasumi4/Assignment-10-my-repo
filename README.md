@@ -20,12 +20,7 @@ you can also contact your local hospital for a list of affiliated doctors. The A
 ### Need help finding a local expert who specializes in your condition`
 
 **Have been admitted into the hospital and want expert guidance in your care**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+our primary doctor likely has a list of physical therapists they recommend. If they don’t or if you’d like another opinion, start by finding a list of physical therapists your insurance company covers. Next, compare that list with physical therapists certified with the Federation of State Boards of Physical Therapy. Ask friends and family members for recommendations, too. You may end up spending a lot of time with this medical professional, so take the time to find one you like and trust.
 
 ## Learn More
 
