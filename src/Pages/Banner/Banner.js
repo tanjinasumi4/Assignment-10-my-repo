@@ -15,8 +15,8 @@ const Banner = () => {
       alt="First slide"
     />
     <Carousel.Caption>
-      <h3>First slide label</h3>
-      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+      <h3>Your Health is our Priority</h3>
+      <p>Search the best treatment of your health</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -27,8 +27,8 @@ const Banner = () => {
     />
 
     <Carousel.Caption>
-      <h3>Second slide label</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h3>A team of experts on your side</h3>
+      <p>We are always there with you</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -39,8 +39,8 @@ const Banner = () => {
     />
 
     <Carousel.Caption>
-      <h3>Third slide label</h3>
-      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+      <h3>We care about ypur health</h3>
+      <p>You can find us at any moment because we care you</p>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>   
