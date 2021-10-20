@@ -1,37 +1,25 @@
-# Getting Started with Create React App
+# A team of experts on your side
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Just Click On It (https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## We care About Your Health
 
-In the project directory, you can run:
+Our service is Providing you best treatment and care of your Health.
 
-### `npm start`
+### When you need answers, Best Doctors can help.
+Get an Expert Medical Opinion from one of our world-renowned specialists so you can have the answers and confidence to make informed decisions about your health.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Are unsure about a diagnosis or need help deciding on a treatment option
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Please Welcome our website and ask any query and opinion.
 
-### `npm test`
+### Have medical questions or concerns and want a leading expert’s advice
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+you can also contact your local hospital for a list of affiliated doctors. The American Board of Otolaryngology maintains a list of board-certified ENT doctors. You can also check your insurance company’s list of in-network providers to narrow down your choices. You can do this by calling your provider or searching for providers on our website.
 
-### `npm run build`
+### Need help finding a local expert who specializes in your condition`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Have been admitted into the hospital and want expert guidance in your care**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
